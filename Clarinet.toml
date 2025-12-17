@@ -10,6 +10,11 @@ path = 'contracts/auth-registry.clar'
 clarity_version = 3
 epoch = 'latest'
 
+[contracts.config-store]
+path = 'contracts/config-store.clar'
+clarity_version = 3
+epoch = 'latest'
+
 [contracts.data-registry]
 path = 'contracts/data-registry.clar'
 clarity_version = 3
