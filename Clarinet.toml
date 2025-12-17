@@ -30,6 +30,11 @@ path = 'contracts/fungible-token.clar'
 clarity_version = 3
 epoch = 'latest'
 
+[contracts.hello-world]
+path = 'contracts/hello-world.clar'
+clarity_version = 3
+epoch = 'latest'
+
 [contracts.liquidity-pool]
 path = 'contracts/liquidity-pool.clar'
 clarity_version = 3
