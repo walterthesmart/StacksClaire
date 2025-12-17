@@ -5,6 +5,11 @@ authors = []
 telemetry = false
 cache_dir = '.\.cache'
 requirements = []
+[contracts.auth-registry]
+path = 'contracts/auth-registry.clar'
+clarity_version = 3
+epoch = 'latest'
+
 [contracts.data-registry]
 path = 'contracts/data-registry.clar'
 clarity_version = 3
