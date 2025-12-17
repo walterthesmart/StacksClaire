@@ -10,6 +10,11 @@ path = 'contracts/fungible-token.clar'
 clarity_version = 3
 epoch = 'latest'
 
+[contracts.sip-009-trait]
+path = 'contracts/sip-009-trait.clar'
+clarity_version = 3
+epoch = 'latest'
+
 [contracts.sip-010-trait]
 path = 'contracts/sip-010-trait.clar'
 clarity_version = 3
