@@ -55,6 +55,11 @@ path = 'contracts/sip-010-trait.clar'
 clarity_version = 3
 epoch = 'latest'
 
+[contracts.string-utils]
+path = 'contracts/string-utils.clar'
+clarity_version = 3
+epoch = 'latest'
+
 [contracts.timestamp-logger]
 path = 'contracts/timestamp-logger.clar'
 clarity_version = 3
