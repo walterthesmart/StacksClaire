@@ -95,6 +95,11 @@ path = 'contracts/user-profile.clar'
 clarity_version = 3
 epoch = 'latest'
 
+[contracts.version-control]
+path = 'contracts/version-control.clar'
+clarity_version = 3
+epoch = 'latest'
+
 [contracts.voting-poll]
 path = 'contracts/voting-poll.clar'
 clarity_version = 3
