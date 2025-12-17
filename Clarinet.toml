@@ -90,6 +90,11 @@ path = 'contracts/proposal-submission.clar'
 clarity_version = 3
 epoch = 'latest'
 
+[contracts.registry-controller]
+path = 'contracts/registry-controller.clar'
+clarity_version = 3
+epoch = 'latest'
+
 [contracts.reputation-system]
 path = 'contracts/reputation-system.clar'
 clarity_version = 3
