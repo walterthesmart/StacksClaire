@@ -18,3 +18,4 @@ costs-reports.json
 node_modules
 check_deployments.sh
 check_deployed.py
+recreate_branches.py
