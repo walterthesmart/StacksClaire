@@ -1,7 +1,7 @@
 
 **/settings/Mainnet.toml
 **/settings/Testnet.toml
-contracts/**
+# contracts/**
 .cache/**
 history.txt
 Clarinet.toml
@@ -16,3 +16,5 @@ coverage
 *.info
 costs-reports.json
 node_modules
+check_deployments.sh
+check_deployed.py
