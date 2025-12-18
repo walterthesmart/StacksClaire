@@ -4,6 +4,9 @@
 contracts/**
 .cache/**
 history.txt
+Clarinet.toml
+open_prs.py
+deployments/**
 
 logs
 *.log
